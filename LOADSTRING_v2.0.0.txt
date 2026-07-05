@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qayyumjelah/Aether-Hub/main/aether_hub_v2_core.lua"))()
